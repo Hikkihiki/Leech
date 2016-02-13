@@ -1,0 +1,8 @@
+{
+  "name": "Leech",
+  "description": "Scheduled task running on python",
+  "image": "python",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
